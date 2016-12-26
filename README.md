@@ -1,6 +1,9 @@
 # CloudBoost IP Address Project
 
-This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
+This is a repo that has a MEAN application which:
+Shows the list of IP addresses currently viewing the app
+When a new user opens the app, dynamically adds their IP address to the list of IPs
+When a user closes the app, dynamically removes their IP address from the list of IPs
 
 ## Installation
 1. Download the repository
@@ -8,6 +11,12 @@ This is a repo for a starter appliation for a Single Page MEAN Stack application
 3. Install bower dependencies `bower install`
 4. Start up the server: `node server.js`
 5. View in browser at http://localhost:8080
+
+#Technologies
+
+MEAN Stack
+Bootstrap
+Mongoose
 
 
 
