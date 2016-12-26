@@ -14,9 +14,9 @@ When a user closes the app, dynamically removes their IP address from the list o
 
 #Technologies
 
-MEAN Stack
-Bootstrap
-Mongoose
+MEAN-Stacks,
+Bootstrap,
+Mongoose.
 
 
 
